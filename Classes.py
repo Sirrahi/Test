@@ -50,10 +50,6 @@ print(dog4.species)
 print(dog5.species)
 print()
 
-print(isinstance(dog4, BullDog))
-print(isinstance(dog4, RussellTerrier))
-print(isinstance(dog4, Dog))
-print(isinstance(Dog, Dog))
 
 
 
