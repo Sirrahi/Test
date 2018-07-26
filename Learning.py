@@ -91,8 +91,7 @@
 # queue.popleft()
 # print(queue)
 
-# name = ('Sunnan', 'Rahi', int(7632))
-# age=87328
+
 
 
 
